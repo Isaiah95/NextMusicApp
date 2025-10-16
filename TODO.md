@@ -1,0 +1,3 @@
+- [x] Add shuffle state and toggle button in AudioPlayer.tsx
+- [x] Modify handleNext and handlePrevious in AudioPlayer.tsx to pick random songs when shuffle is on
+- [ ] Test shuffle functionality
